@@ -1,4 +1,4 @@
-a="hello world python"
+a=input()
 h=[]
 str=''
 for i in a:
