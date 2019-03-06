@@ -1,0 +1,14 @@
+1. Tupple doesnt support element deletion but does support whole tupple deletion.
+2. Doesnt Support List Operations(Built-in Functions).
+3. Min , Max , Enumerate Do work with tupple.
+4. Can Be used in loops.
+5. Tupple Compression works to form a generator.
+6. Can Be Formed without paranthesis.
+7. Methods Of Formation :-
+
+	A=()
+	B=tuple()
+	C=(2,4,[4,678,87])
+	D=2,4,65,674
+
+8. 
